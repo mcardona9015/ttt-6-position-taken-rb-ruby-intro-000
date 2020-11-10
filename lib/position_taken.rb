@@ -2,6 +2,5 @@
 def position_taken?(board, i)
   if board[i] == ' ' or board[i] == ''
     false
-
-
+  end
 end
